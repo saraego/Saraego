@@ -1,8 +1,27 @@
-###  Hi I'm Saraego Felix ✌😎
+<img align="right" alt="GIF" src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="370" height="250" />
 
-- 📚💻 Faço faculdade de Análise e Desenvolvimento de sistemas pela Estacio.
-- 📚📙 Estudando HTML CSS e JavaScript para Front-End
-- 📫💨  Linkedin  https://www.linkedin.com/in/saraego-f%C3%A9lix-barros-54b55b221/
+<h1>Hi 👋, I'm Saraego Felix</h1>
+
+
+
+## 🙋‍♂️ About Me
+
+- 👨‍💻 I am currently in the 2nd year of studying Systems Analysis and Development. By Estacio College
+
+- 🖥️ Coding Environment: Dark 🕶️ + Music 🎧 + Coffe 🍵
+
+- 🌱 I love watching tech videos and exploring new stuffs. 
+
+- 📫 How to reach me **saraegofelixbarros@gmail.com**
+
+## 🚀 Languages and Tools:
+
+![skills](https://skillicons.dev/icons?i=react,nodejs,express,js,html,css,bootstrap,github,git,mongodb,mysql&theme=dark&perline=9)
+
+
+
+
+
 
 
 <div align="center">
@@ -12,10 +31,4 @@
 
 </div>
   
-<div style="display: inline_block" align="center"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Js" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-</div>
+
